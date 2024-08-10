@@ -130,3 +130,9 @@ dist
 .pnp.*
 echo node_modules/
 build/
+
+# iOS specific
+*.xcworkspace
+*.xcuserdata
+*.xcscheme
+Pods/
